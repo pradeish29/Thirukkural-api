@@ -1,0 +1,181 @@
+*{
+    
+    padding: 0;
+    margin: 0;
+    background-color: rgb(195, 245, 252);
+}
+
+.kuralForm{
+    /* border: 1px solid black; */
+    /* height: 100vh; */
+    /* padding: 20px; */
+    /* margin: 20px; */
+    margin: 1%;
+    width: fit-content;
+    
+    
+}
+.kuralInputDisplay{
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    width: 450px;
+    padding: 10px;
+    margin-left: 8px;
+    margin-top: 10px;
+    color: rgb(184, 48, 48);
+    font-weight: bolder;
+    font-size: 18px;
+    /* background-color: rgba(199, 222, 241, 0.808); */
+}
+.kuralHeading{
+    /* border: 1px solid black; */
+    width: max-content;
+    margin: 0;
+    /* background-color: rgba(199, 222, 241, 0.808); */
+}
+.kuralNumber{
+  padding-left: 5px;
+  margin-left: 10px;
+  height: 25px;
+  width: 130px;
+  border: 1px solid rgb(138, 2, 2);
+  border-radius: 6px;
+  box-shadow: 0px 0px 10px rgb(197, 154, 154);
+  /* background-color: rgba(199, 222, 241, 0.808); */
+}
+input:focus{
+    outline: 1px solid rgb(173, 6, 6);
+}
+.kuralInputDiv{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+    width: 88vw;
+    /* background-color: rgba(199, 222, 241, 0.808); */
+}
+.submitBtn{
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    width: max-content;
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    background-color: rgba(248, 93, 93, 0.849);
+}
+.submitBtn:hover{
+    padding: 12px;
+    font-size: 15px;
+    border-radius: 8px;
+    color: rgb(238, 208, 208);
+    background-color: rgba(196, 25, 25, 0.849);
+}
+.btnDiv{
+    /* border: 1px solid black; */
+    margin-top: 15px;
+    width: 88vw;
+    height: fit-content;
+    text-align: center;
+    /* background-color: rgba(199, 222, 241, 0.808); */
+}
+.bottomDiv{
+    /* width: 500px; */
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+}
+.kuralDisplay{
+    padding: 5px;
+    border: 1px solid rgb(138, 2, 2);
+    border-radius: 13px;
+    border-style: groove;
+    margin: 5px;
+    height: max-content;
+    background-color: rgba(199, 222, 241, 0.808);
+    width:96%;
+}
+
+.tamilKural{
+    /* border: 1px solid black; */
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0);
+
+}
+.tamilTitle{
+    /* border: 1px solid black; */
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(187, 4, 4);
+    background-color: rgba(0, 0, 0, 0);
+}
+.tamilline{
+    /* border: 1px solid black; */
+    margin: 3px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 18px;
+    color: rgb(5, 98, 180);
+   background-color: rgba(0, 0, 0, 0);
+
+}
+.tamilline1{
+    background-color: rgba(0, 0, 0, 0);
+    color:#000;
+    font-size: larger;
+}
+.tamilline2{
+    background-color: rgba(0, 0, 0, 0);
+    color:#000;
+    font-size: larger;
+}
+.tamilMeaningHeading{
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 15px;;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(3, 110, 110);
+}
+.tamilMeaning{
+    /* border: 1px solid black; */
+    /* text-indent: 40px; */
+    margin-left: 50px;
+    font-size: large;
+    margin-top: 3px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(7, 7, 7);
+
+}
+.englishKural{
+    /* border: 1px solid black; */
+    padding: 5px;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0);
+
+}
+.englishTitle{
+    /* border: 1px solid black; */
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(187, 4, 4);
+    background-color: rgba(0, 0, 0, 0);
+}
+.englishMeaningHeading{
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 17px;
+    margin-top: 20px;
+    color: rgb(3, 110, 110);
+    background-color: rgba(0, 0, 0, 0);
+}
+.englishMeaning{
+    /* border: 1px solid black; */
+    margin-left: 50px;
+    padding: 10px;
+    margin-bottom: 25px;
+    font-size: large;
+    color: rgb(8, 8, 8);
+    background-color: rgba(0, 0, 0, 0);}
+
