@@ -14,6 +14,7 @@ https://pradeish29.github.io/Thirukkural-api/
 - **Thirukkural Search**: Users can input a number between 1 and 1330 to retrieve the corresponding Thirukkural couplet.
 - **Meaning Display**: The website displays the meaning of the Thirukkural couplet along with its partition (Adhikaram) in both English and Tamil.
 
+
 ## Usage
 
 To use the website:
